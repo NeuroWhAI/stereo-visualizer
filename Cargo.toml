@@ -1,0 +1,10 @@
+[package]
+name = "stereo-visualizer"
+version = "0.1.0"
+authors = ["NeuroWhAI <tlsehdgus0212@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ggez = "0.5.1"
+rodio = "0.10.0"
+rustfft = "3.0.1"
